@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Huyen Pham, a **Student of Bachelor of Mathematics (Data Science) ** With a strong academic background in math and data from University of South Australia and eager to kickstart my career as a data engineer intern in industry. I am proficient in Python, MySQL and SQLite with hope to learn from industry experts, tackle complex data challenges. To see my profile in detail, I recommend to look at my LinkedIn profile.
+I am Huyen Pham,  With a strong academic background in math and data from University of South Australia and eager to kickstart my career as a data engineer in industry. I am proficient in Python, MySQL and SQLite with hope to learn from industry experts, tackle complex data challenges. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huyen-pham-b1a75bab/)
 
