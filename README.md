@@ -1,14 +1,16 @@
-### Hi there 👋
+# 👋 Hi, I'm Huyen
 
-My name is Huyen. I have a strong academic background in mathematics and data science from the University of South Australia, with a passion for building efficient analytical solutions to uncover strategic insights.
+I'm a recent graduate with a Bachelor of Mathematics (Data Science) from the University of South Australia, graduating with a GPA of 6.45/7. I have a strong foundation in mathematics, statistics, and computing, and I’m passionate about developing analytical solutions that turn data into meaningful action.
 
-🔍 What I Do
 
-+ Proficient in __Python, MySQL, and machine learning__ to tackle complex data challenges.
-+ Experienced in __data analysis, predictive modeling, and optimization__ to drive data-informed decisions.
-+ Passionate about transforming raw data into actionable insights through effective visualization and storytelling.
-  
-📌 Explore My Work
+## 🔍 What I Do
+
++ Proficient in __Excel, Python, MySQL, and machine learning__ to tackle complex data challenges.
++ Experienced in __data wrangling, EDA, predictive modeling, and optimization__ to drive data-informed decisions.
++ Passionate about using data storytelling and impactful visualisations to communicate insights clearly (Power BI, Matplotlib, Seaborn).
+- Comfortable working with algorithms, mathematical modelling, and simulation for business and engineering use cases.
+
+## 📌 Explore My Work
 Check out my repositories to see my hands-on projects, where I apply machine learning, time series forecasting, and database management techniques.
 
 📫 Let’s Connect
