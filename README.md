@@ -16,14 +16,14 @@ I'm a recent graduate with a **Bachelor of Mathematics (Data Science)** from the
 ## 📌 Projects
 
 Here are some of my key projects. Click the titles to explore the code and dashboards:
-# Data Warehouse & Data Engineer
+# 1. Data Warehouse & Data Engineer
 
 ### [ETL & Data Warehouse Pipeline](https://github.com/HuyenThiThu-Pham/SQL--Data-Warehouse-Project) – Aug 2025
 - Designed and implemented an **ETL pipeline** in SQL Server Management Studio (SSMS) to structure data from multiple sources.  
 - Applied **data quality checks** including schema validation, duplicate removal, and missing value handling.  
 - Built a **modular data model** (Bronze–Silver–Gold architecture) for scalability and future integration with Airflow/Azure.
 
-  # 🔍 Text Analytics & Network Analysis Projects
+  # 2. Text Analytics & Network Analysis Projects
 
 **[📊 Hyperlink Network & Community Detection on Reddit](https://github.com/HuyenThiThu-Pham/Hyperlink-Network-Community-Detection)**
 
@@ -35,15 +35,7 @@ Here are some of my key projects. Click the titles to explore the code and dashb
 
 ---
 
-*Alternative shorter format:*
 
-## Featured Project: [Hyperlink Network & Community Detection](https://github.com/HuyenThiThu-Pham/Hyperlink-Network-Community-Detection)
-
-• **Large-scale text pattern analysis**: Processed 2,000-node Reddit network using combined manual review and automated NLP techniques (Node2Vec, GCN, Girvan-Newman) to identify community structures and thematic patterns
-
-• **Comprehensive benchmarking approach**: Applied rigorous evaluation methodology with multiple validation metrics, demonstrating strong analytical problem-solving skills and attention to detail in methodology comparison
-
-• **Business-focused insights delivery**: Translated complex network analysis findings into actionable recommendations for social media strategy and community management applications
 
 
 ### [Reddit API Data Integration & Sentiment Analysis — Sport Trends](https://github.com/HuyenThiThu-Pham/Reddit-API-Data-Integration-Sentiment-Analysis-Sport-Trends/tree/main) – May 2025
@@ -58,10 +50,14 @@ Here are some of my key projects. Click the titles to explore the code and dashb
 - Performed **time-series and text analysis** to uncover keywords linked to higher sales values.  
 - Developed **ggplot2 visualizations** presenting insights on housing affordability and urban planning.
 
+# 3. Power BI
+
 ### [Shopify Sales Dashboard – Power BI](https://github.com/HuyenThiThu-Pham/Shopify-Sales-Customer-Dashboard-Power-BI-) – Jul 2025
 - Designed a **dynamic Power BI dashboard** to analyze sales performance by region, customer type, and product category.  
 - Cleaned and transformed large CSV datasets using **Power Query and DAX**, improving data usability.  
 - Enabled stakeholders to gain **fast, interactive insights** through drill-down filters and KPIs.
+
+  # 4. Descriptive and Predictive Analytics
 
 ### [Healthcare Provider Fraud Detection – AI & Cybersecurity](https://github.com/HuyenThiThu-Pham/The-Healthcare-Fraud-Detection_R) – Jun 2024
 - Preprocessed a dataset with **500,000 records and 75 attributes** for fraud detection in health insurance claims.  
