@@ -23,6 +23,13 @@ Here are some of my key projects. Click the titles to explore the code and dashb
 - Built a **modular data model** (Bronze–Silver–Gold architecture) for scalability and future integration with Airflow/Azure.
 
 
+### [Reddit API Data Integration & Sentiment Analysis — Sport Trends](https://github.com/HuyenThiThu-Pham/Reddit-API-Data-Integration-Sentiment-Analysis-Sport-Trends/tree/main) – May 2025
+- Extracted and processed large-scale unstructured text from targeted subreddits using Python (PRAW, pandas, NLTK).
+- Applied text preprocessing (tokenization, lemmatization, stopword removal) and feature engineering for NLP pipelines.
+- Combined manual review with automated NER and sentiment analysis to identify emerging trends, patterns, and fan sentiment shifts.
+- Visualized temporal trends and sentiment distributions, translating complex text insights into clear, actionable recommendations.
+
+
 ### [Property Market Analysis – Prospect, Australia](https://github.com/HuyenThiThu-Pham/Property-analysis_web-scraping_R) – Oct 2024
 - Scraped and analyzed real estate sales data with **R**, identifying **key drivers of price changes** and predicting trends with regression models (80% accuracy).  
 - Performed **time-series and text analysis** to uncover keywords linked to higher sales values.  
