@@ -16,11 +16,34 @@ I'm a recent graduate with a **Bachelor of Mathematics (Data Science)** from the
 ## 📌 Projects
 
 Here are some of my key projects. Click the titles to explore the code and dashboards:
+# Data Warehouse & Data Engineer
 
 ### [ETL & Data Warehouse Pipeline](https://github.com/HuyenThiThu-Pham/SQL--Data-Warehouse-Project) – Aug 2025
 - Designed and implemented an **ETL pipeline** in SQL Server Management Studio (SSMS) to structure data from multiple sources.  
 - Applied **data quality checks** including schema validation, duplicate removal, and missing value handling.  
 - Built a **modular data model** (Bronze–Silver–Gold architecture) for scalability and future integration with Airflow/Azure.
+
+  # 🔍 Text Analytics & Network Analysis Projects
+
+**[📊 Hyperlink Network & Community Detection on Reddit](https://github.com/HuyenThiThu-Pham/Hyperlink-Network-Community-Detection)**
+
+- **Analyzed 2,000-node Reddit network** using hybrid approach combining classical Girvan-Newman algorithm with advanced Node2Vec embeddings and Graph Convolutional Networks to extract thematic patterns and community structures from large-scale text data
+
+- **Benchmarked multiple analytical methods** using comprehensive evaluation metrics (ARI, Silhouette, Calinski-Harabasz, Davies-Bouldin) to compare clustering performance, demonstrating strong attention to analytical rigor and methodology validation
+
+- **Delivered actionable insights** on online community dynamics through systematic pattern recognition, translating complex graph neural network results into clear business applications for social media analytics and user segmentation
+
+---
+
+*Alternative shorter format:*
+
+## Featured Project: [Hyperlink Network & Community Detection](https://github.com/HuyenThiThu-Pham/Hyperlink-Network-Community-Detection)
+
+• **Large-scale text pattern analysis**: Processed 2,000-node Reddit network using combined manual review and automated NLP techniques (Node2Vec, GCN, Girvan-Newman) to identify community structures and thematic patterns
+
+• **Comprehensive benchmarking approach**: Applied rigorous evaluation methodology with multiple validation metrics, demonstrating strong analytical problem-solving skills and attention to detail in methodology comparison
+
+• **Business-focused insights delivery**: Translated complex network analysis findings into actionable recommendations for social media strategy and community management applications
 
 
 ### [Reddit API Data Integration & Sentiment Analysis — Sport Trends](https://github.com/HuyenThiThu-Pham/Reddit-API-Data-Integration-Sentiment-Analysis-Sport-Trends/tree/main) – May 2025
