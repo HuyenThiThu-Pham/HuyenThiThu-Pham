@@ -23,7 +23,7 @@ Here are some of my key projects. Click the titles to explore the code and dashb
 - Applied **data quality checks** including schema validation, duplicate removal, and missing value handling.  
 - Built a **modular data model** (Bronze–Silver–Gold architecture) for scalability and future integration with Airflow/Azure.
 
-  # 2. Text Analytics & Network Analysis Projects
+# 2. Text Analytics & Network Analysis Projects
 
 **[📊 Hyperlink Network & Community Detection on Reddit](https://github.com/HuyenThiThu-Pham/Hyperlink-Network-Community-Detection)**
 
@@ -57,7 +57,7 @@ Here are some of my key projects. Click the titles to explore the code and dashb
 - Cleaned and transformed large CSV datasets using **Power Query and DAX**, improving data usability.  
 - Enabled stakeholders to gain **fast, interactive insights** through drill-down filters and KPIs.
 
-  # 4. Descriptive and Predictive Analytics
+# 4. Descriptive and Predictive Analytics
 
 ### [Healthcare Provider Fraud Detection – AI & Cybersecurity](https://github.com/HuyenThiThu-Pham/The-Healthcare-Fraud-Detection_R) – Jun 2024
 - Preprocessed a dataset with **500,000 records and 75 attributes** for fraud detection in health insurance claims.  
