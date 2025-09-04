@@ -64,6 +64,11 @@ Here are some of my key projects. Click the titles to explore the code and dashb
 - Implemented **anomaly detection and classification algorithms**, achieving 90% accuracy.  
 - Coordinated team efforts and validated models; received **High Distinction** for innovation and robust solution delivery.
 
+### [Casino](https://github.com/HuyenThiThu-Pham/Casino_survey_consultation_R)-Aug 2024
+- Cleaned, recoded, and modeled a **large-scale public survey dataset** (92 variables, 17k+ rows) in R to assess support and opposition toward a proposed casino.
+- Built a **multinomial logistic regression model** to predict public stance, achieving strong accuracy for extreme sentiment categories and identifying **economic vs. social concerns** as key drivers.
+- Applied PCA (61.9% variance explained) and EFA (two latent factors: Economic Development & Social Concerns) to uncover interpretable dimensions of public opinion, simplifying stakeholder interpretation.
+- Delivered **demographic insights** (e.g., men emphasized economic growth; women prioritized safety/social concerns), providing evidence-based recommendations for **targeted communication strategies**.
 ---
 
 ## 💻 Skills
